@@ -4,7 +4,7 @@ const cssMacro = require('weapp-tailwindcss/css-macro')
 module.exports = {
   content: ["./index.html", "./**/*.vue"].map(resolve),
   theme: {
-
+	
   },
   plugins: [
     // https://weapp-tw.icebreaker.top/docs/quick-start/uni-app-css-macro
